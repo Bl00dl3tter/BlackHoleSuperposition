@@ -2,7 +2,7 @@
 **A Proposed Resolution to the Information Paradox via Delayed Wavefunction Collapse**  
 
 ### **Author:** Eric Steven Tabor  
-### **Date:** February 15, 2025 (to be updated upon GitHub posting)  
+### **Date:** February 15, 2025  
 
 ---
 
